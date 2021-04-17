@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/lmstack/study/DataStructure/algs4.jar",
+        "/home/lmstack/study/DataStructure/stdlib.jar"
+    ]
+}
